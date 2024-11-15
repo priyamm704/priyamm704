@@ -59,7 +59,7 @@
   <!-- Left Side - GitHub Stats and Streak -->
   <div>
     <p align="">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaywadkar04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamm704&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
     </p>
     <p align="">
       <img src="https://github-readme-stats.vercel.app/api?username=priyamm704&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />

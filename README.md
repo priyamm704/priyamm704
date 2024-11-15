@@ -37,20 +37,13 @@
 
 ## 🌟 About Me
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **Java and DSA**
 - 🤝 I’m looking for help with **GitHub and Deployment**
-- 💬 Ask me about **SQL and C++**
-- 📫 How to reach me **abhaywadkar2004@gmail.com**
+- 💬 Ask me about **SQL and Java**
+- 📫 How to reach me **priyamm704@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhay wadkar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/abhhay____" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/abhaywadkar2004" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -59,7 +52,7 @@
 <div style="display: flex; justify-content: space-between;">
    <div>
     <p align="">
-      <img src="https://leetcode.card.workers.dev/abhaywadkar2004?theme=dark&font=source_code_pro&extension=null" alt="leetcode" align="right"/>
+      <img src="https://leetcode.card.workers.dev/priyamm704@gmail.com?theme=dark&font=source_code_pro&extension=null" alt="leetcode" align="right"/>
     </p>
   </div>
 </div>
@@ -69,10 +62,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaywadkar04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
     </p>
     <p align="">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhaywadkar04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=priyamm704&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
     </p>
     <p align="">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywadkar04&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamm704&theme=tokyonight" alt="GitHub Streak" />
     </p>
   </div>
 

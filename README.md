@@ -37,8 +37,7 @@
 <div style="display: flex; justify-content: space-between;">
    <div>
     <p align="">
-      <img src="https://leetcode.card.workers.dev/ftjmKIsUmF
-?theme=dark&font=source_code_pro&extension=null" alt="leetcode" align="right"/>
+      <img src="https://leetcode.card.workers.dev/ftjmKIsUmF?theme=dark&font=source_code_pro&extension=null" alt="leetcode" align="right"/>
     </p>
   </div>
 </div>

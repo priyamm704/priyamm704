@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #FFFFFF;">Hi 👋, I'm priyam</h1>
+<h1 align="center" style="color: #FFFFFF;">Hi 👋, I'm Priyam</h1>
 <h3 align="center" style="color: #A9A9A9;">A passionate fullstack developer from India</h3>
 <img align="center" alt="Coding-banner" width="1200" src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv">
 
